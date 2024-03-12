@@ -1,0 +1,27 @@
+1. Entity: basic unit of database is called entity. in short, the row of a table is called entity.
+
+2. Relationship: the connection between tables and how tables are related is called Relationship.
+
+3. What is pluggable database?
+--A pluggable database (PDB) is a portable collection of schemas, schema objects, 
+  and nonschema objects that appears to an Oracle Net client as a non-CDB. 
+PDBs can be plugged into to CDBs.
+ -- PDB: portable database;
+ -- CDBs: container database.
+
+Object: Anything that is used to store or manipulate data.
+
+What is schema?
+-- Schema are the collection of objects for each user in Oracle database.
+-- it is a list of logical structure of data.
+ Schema can have objects like: 
+ 1. tables
+ 2. Views
+ 3. Triggers
+ 4. Constraints
+
+How many types of relationship?
+1. one to one
+2. one to many
+3. many to many
+

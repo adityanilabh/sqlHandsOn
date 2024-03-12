@@ -1,0 +1,6 @@
+what is hr schema?
+The HR schema contains seven tables 
+representing a data model of a fictitious Human Resources department.
+
+
+Practice hr schema and like how database are connected to each other too.
